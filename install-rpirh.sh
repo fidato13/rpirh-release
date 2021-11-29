@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Execute install-rpirh.sh... "
+echo "Executing install-rpirh.sh... "

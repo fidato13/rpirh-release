@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Execute uninstall-rpirh.sh... "
+echo "Executing uninstall-rpirh.sh... "
